@@ -1,22 +1,16 @@
 {
-  "name": "OpenShift-Sample-App",
+  "name": "Wooden-Vulture",
   "version": "1.0.0",
-  "description": "OpenShift Sample Application",
-  "keywords": [
-    "OpenShift",
-    "Node.js",
-    "application",
-    "openshift"
-  ],
+  "description": "wooden vulture",
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url": "http://www.openshift.com/"
+    "name": "Ben Wells",
+    "email": "mrbrwells@gmail.com",
+    "url": "http://www.mrbenwells.com/"
   },
-  "homepage": "http://www.openshift.com/",
+  "homepage": "http://www.mrbenwells.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openshift/origin-server"
+    "url": "https://github.com/benwells/vooden-vulture"
   },
 
   "engines": {
@@ -31,5 +25,5 @@
   "bundleDependencies": [],
 
   "private": true,
-  "main": "server.js"
+  "main": "app.js"
 }
